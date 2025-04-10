@@ -11,46 +11,55 @@ Hi! I'm a Master's student in [University of Wisconsin Madison, Department of Ec
 
 My research interest lies in Applied Microeconomic Theory, Industrial Organization and Game Theory. I'm especially interested in the topics of platform economics, two-sided markets and digital economics.
 
-You can find my CV here: [TBD]
+You can find my CV here: [TBD]  
 
+  
 
 Education
 ======
-Master of Science in Economics, University of Wisconsin Madison, Madison WI, USA
-Bachelor of Economics in International Economics and Trade, East China University of Science and Technology, Shanghai, China
+Master of Science in Economics, University of Wisconsin Madison, Madison WI, USA  
+Bachelor of Economics in International Economics and Trade, East China University of Science and Technology, Shanghai, China  
 
+  
 
 Research Experiences
 ======
 
 Optimal Bundling in Media Streaming Platforms
 ------
-Research Assistant, **Advisor: Meichen Chen, Baojun Jiang**
-tbd
+Research Assistant, **Advisor: Meichen Chen, Baojun Jiang**  
+tbd  
+
 
 Testing Information Ordering for Strategic Agents
-======
-Research Assistant, **Advisor: Lorenzo Magnolfi**
+------
+Research Assistant, **Advisor: Lorenzo Magnolfi**  
+tbd  
+
 
 LLMs Pricing
 ------
-Research Project, **Advisor: Lorenzo Magnolfi, Christopher Sullivan**
-tbd
+Research Project, **Advisor: Lorenzo Magnolfi, Christopher Sullivan**  
+tbd  
+
 
 Impact of ESG on OFDI: Internal Management vs External Risk Exposure
 ------
-Undergraduate Thesis, **Advisor: Meichen Chen**
-tbd
+Undergraduate Thesis, **Advisor: Meichen Chen**  
+tbd  
+
 
 Impact of Firms' Internal Control to OFDI
 ------
-Research Assistant, **Advisor: Pu Shen**
-tbd
+Research Assistant, **Advisor: Pu Shen**  
+tbd  
+
 
 Research on Regional Economic Development Imbalance in China
 ------
-Research Project, **Advisor: Wei Cheng**
-tbd
+Research Project, **Advisor: Wei Cheng**  
+tbd  
+
 
 Industrial Experiences
 ======
@@ -64,12 +73,13 @@ Product Operation Analyst Intern, Customer Experience Team - International Busin
 
 Skills
 ======
-**Programming:** Python, R, Stata, Mathematica
-**Language:** English(fluent), Chinese(native), Japanese(intermediate), Korean(intermediate)
+**Programming:** Python, R, Stata, Mathematica  
+**Language:** English(fluent), Chinese(native), Japanese(intermediate), Korean(intermediate)  
+
 
 Personal
 ======
-I'm an amateur Pipa (a Chinese traditional instrument, also known as Chinese lute) player having been playing it for 17 years.
+I'm an amateur Pipa (a Chinese traditional instrument, also known as Chinese lute) player having been playing it for 17 years.  
 I also enjoy photography. Please refer to https://www.instagram.com/more_of_ff/?hl=en
 
 
