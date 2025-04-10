@@ -25,32 +25,32 @@ Bachelor of Economics in International Economics and Trade, East China Universit
 Research Experiences
 ======
 
-**Optimal Bundling in Media Streaming Platforms**
+**Optimal Bundling in Media Streaming Platforms**  
 Research Assistant, Advisor: Meichen Chen, Baojun Jiang  
 tbd  
 
 
-**Testing Information Ordering for Strategic Agents**
+**Testing Information Ordering for Strategic Agents**  
 Research Assistant, Advisor: Lorenzo Magnolfi  
 tbd  
 
 
-**LLMs Pricing**
+**LLMs Pricing**  
 Research Project, Advisor: Lorenzo Magnolfi, Christopher Sullivan  
 tbd  
 
 
-**Impact of ESG on OFDI: Internal Management vs External Risk Exposure**
+**Impact of ESG on OFDI: Internal Management vs External Risk Exposure**  
 Undergraduate Thesis, Advisor: Meichen Chen  
 tbd  
 
 
-**Impact of Firms' Internal Control to OFDI**
+**Impact of Firms' Internal Control to OFDI**  
 Research Assistant, Advisor: Pu Shen  
 tbd  
 
 
-**Research on Regional Economic Development Imbalance in China**
+**Research on Regional Economic Development Imbalance in China**  
 Research Project, Advisor: Wei Cheng  
 tbd  
 
