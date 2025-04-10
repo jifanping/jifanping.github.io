@@ -80,7 +80,7 @@ Skills
 Personal
 ======
 I'm an amateur Pipa (a Chinese traditional instrument, also known as Chinese lute) player having been playing it for 17 years.  
-I also enjoy photography. Please refer to https://www.instagram.com/more_of_ff/?hl=en
+I also enjoy photography. Please refer to [my page](https://www.instagram.com/more_of_ff/?hl=en)
 
 
 
