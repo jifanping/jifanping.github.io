@@ -57,13 +57,11 @@ tbd
 
 Industrial Experiences
 ======
-NIO Inc.
-------
-Operation Management Analyst Intern, Transportation Capacity Team - Road Service Center
+**NIO Inc.**  
+Operation Management Analyst Intern, Transportation Capacity Team **Road Service Center**  
 
-DiDi Global Inc.
-------
-Product Operation Analyst Intern, Customer Experience Team - International Business Group
+**DiDi Global Inc.**  
+Product Operation Analyst Intern, Customer Experience Team **International Business Group**  
 
 Skills
 ======
