@@ -7,6 +7,12 @@ redirect_from:
   - /about.html
 ---
 
+Hi! I'm a Master's student in [University of Wisconsin Madison, Department of Economics](https://econ.wisc.edu/). I'm expected to be graduating in May 2026. I'm seeking for research opportunities and applying for PhD programs for 26 fall or 27 spring semester.
+
+My research interest lies in Applied Microeconomic Theory, Industrial Organization and Game Theory. I'm especially interested in the topics of platform economics, two-sided markets and digital economics.
+
+You can find my CV here: [TBD]
+
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
